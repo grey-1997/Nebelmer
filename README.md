@@ -198,4 +198,4 @@ This repository serves as the official landing page for Nebelmer. The software i
 **Get the most recent version of Nebelmer today!**
 
 ---
-**Last updated:** 2026-11-12 21:42:59 UTC
+**Last updated:** 2026-11-13 02:22:28 UTC
